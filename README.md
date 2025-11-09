@@ -1,107 +1,69 @@
-<br>
-<br>
-<br>
-
-<div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
-</div>
-
-<div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Kamilly Medino</b>
-  </samp>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2ECC71&textBg=false"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4908&pause=496&color=2ECC71&center=true&vCenter=true&width=900&height=75&lines=I'm+a+student+of+Systems+Analysis+and+Development.;Always+learning%2C+always+building!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=Victor-programmer&show_icons=true&count_private=true&title_color=2ECC71&text_color=145A32&icon_color=2ECC71&border_color=145A32&bg_color=0d1117"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-programmer&layout=compact&font=Iosevka&langs_count=16&title_color=2ECC71&text_color=145A32&icon_color=2ECC71&border_color=145A32&bg_color=0d1117"
+  />
+  <br><br>
+  <img
+    align="center"
+    alt="Profile Summary"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victor-programmer&theme=github_dark"
+    style="border:2px solid #145A32; border-radius:10px;"
+  />
+  <br><br>
+  <img
+    height=154
+    align="center"
+    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Victor-programmer&background=0d1117&border=145A32&stroke=145A32&ring=2ECC71&fire=2ECC71&currStreakNum=2ECC71&sideNums=2ECC71&currStreakLabel=145A32&sideLabels=145A32&dates=2ECC71&card_width=885"
+  />
 </div>
-      
+
 <br>
-<br>
-      
+
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
+  <h2 style="color:#145A32">💻 Technologies I use</h2>
+  <div style="display: inline_block"><br>
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <h2 style="color:#145A32">📫 Contact Me</h2>
   <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=ayu_mirage"/>
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  
+  <a href="mailto:victorhugosantos2610@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-145A32?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <br>
-<br>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
-
-##
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-755b25?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
-  
-</div>
-
-<div align="center">
-  <p align="center">
-      
-  </p>
-</div>
-<br>
-
-</details>
-
-##
-
-<br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=755b25" /></p> 
-</div>
-
-<br>
-<br>
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=141&color=2ECC71&textBg=false&section=footer"/>
