@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2ECC71&textBg=false"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4908&pause=496&color=2ECC71&center=true&vCenter=true&width=900&height=75&lines=I'm+a+student+of+Systems+Analysis+and+Development.;Always+learning%2C+always+building!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4908&pause=496&color=2ECC71&center=true&vCenter=true&width=900&height=75&lines=Hi+there!+I'm+Victor+Hugo;I+am+from+Brazil;I'm+also+a+student+of+Systems+Analysis+and+Development.;Always+learning%2C+always+building!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -12,7 +12,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=Victor-programmer&show_icons=true&count_private=true&title_color=2ECC71&text_color=145A32&icon_color=2ECC71&border_color=145A32&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/?username=Victor-programmer&show_icons=true&count_private=true&rank_icon=github&title_color=2ECC71&text_color=145A32&icon_color=2ECC71&border_color=145A32&bg_color=0d1117"
   />
   <img
     height=165
